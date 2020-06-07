@@ -43,3 +43,4 @@ Enrichment of contents
 
 ## What is Soba? You will add content later. I don't want to explain it here, so please see here. 
 [A mysterious site where you can read only the prologue and the first chapter of the novel near the phrase](https://scratch.mit.edu/projects/378226993)
+*The linked page has not been translated into English.*
