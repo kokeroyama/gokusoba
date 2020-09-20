@@ -28,7 +28,7 @@ CSSを頑張って適用しました。
 
 # This is the official site for phrase soba. 
 ## Changes from now I tried my best to apply CSS. 
-- I made a background color (color code `2f4f4f`) 
+- I made a background color (color code `eeeeee`) 
 
 - I made an inner frame 
 
